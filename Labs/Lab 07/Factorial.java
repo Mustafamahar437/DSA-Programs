@@ -15,8 +15,6 @@ public class Factorial {
             return Fact_Recursion(num-1)*num;
         }
     }
-
-
     public static void main(String args[]){
         Factorial Fa=new Factorial();
         Scanner obj=new Scanner(System.in);
